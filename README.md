@@ -131,36 +131,36 @@ You should have a basic familiarity with the command line in case you need to do
 ### Git in Atom
 You should be able to ...
 
-- [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
+- [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
 - [x] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: 🦒
-- [ ] ✏️ Create a new file `hello.txt`, add some text and save it.
-- [ ] Display the Git panel (click the small Git button at the bottom right).
+- [x] ✏️ Create a new file `hello.txt`, add some text and save it.
+- [x] Display the Git panel (click the small Git button at the bottom right).
 
 ![atom-git-menu](img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
+- [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [x] Double click on each file with changes to stage them  
+- [x] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
 
 
 
 
 ## Create a new repository
 
-- [ ] Create a repository from scratch
-  - [ ] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
-  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [x] Create a repository from scratch
+  - [x] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
+  - [x] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   <your-class-name-here>
     |-- my-awesome-project
     |-- learn-git-milestones
   ```
-  - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder into Atom)
-  - [ ] ✏️ Add a README file: `README.md`
-  - [ ] ✏️ In the README write your name and the date
-  - [ ] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [x] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder into Atom)
+  - [x] ✏️ Add a README file: `README.md`
+  - [x] ✏️ In the README write your name and the date
+  - [x] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
@@ -183,13 +183,13 @@ Create a github.io site for your repository ...
 </body>
 </html>
 ```
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] Go to the settings page for your repo on Github.com and scroll aaaaallllll the way down to the Github Pages section
-  - [ ] Select the main branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] Paste this link here:
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] Go to the settings page for your repo on Github.com and scroll aaaaallllll the way down to the Github Pages section
+  - [x] Select the main branch source and click save
+  - [x] Do not use a theme. Start from scratch
+  - [x] Visit your project site at http://*username*.github.io/my-awesome-project
+  - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [x] Paste this link here:https://relaxbry.github.io/my-awesome-project/
 
 
 
